@@ -1,0 +1,27 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.jzoom.flutteralipay" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/flutter_alipay-0.1.2/android/src/main/AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.INTERNET" />
+7-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/flutter_alipay-0.1.2/android/src/main/AndroidManifest.xml:4:5-66
+7-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/flutter_alipay-0.1.2/android/src/main/AndroidManifest.xml:4:22-64
+8    <uses-permission android:name="android.permission.INTERNET" />
+8-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/flutter_alipay-0.1.2/android/src/main/AndroidManifest.xml:4:5-66
+8-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/flutter_alipay-0.1.2/android/src/main/AndroidManifest.xml:4:22-64
+9    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+9-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/flutter_alipay-0.1.2/android/src/main/AndroidManifest.xml:6:5-79
+9-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/flutter_alipay-0.1.2/android/src/main/AndroidManifest.xml:6:22-76
+10    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+10-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/flutter_alipay-0.1.2/android/src/main/AndroidManifest.xml:7:5-76
+10-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/flutter_alipay-0.1.2/android/src/main/AndroidManifest.xml:7:22-73
+11    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+11-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/flutter_alipay-0.1.2/android/src/main/AndroidManifest.xml:8:5-75
+11-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/flutter_alipay-0.1.2/android/src/main/AndroidManifest.xml:8:22-72
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/flutter_alipay-0.1.2/android/src/main/AndroidManifest.xml:9:5-81
+12-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/flutter_alipay-0.1.2/android/src/main/AndroidManifest.xml:9:22-78
+13
+14</manifest>

@@ -1,0 +1,389 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from [:fluttertoast] /Users/artc/Documents/GitHub/let-f4/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] /Users/artc/Documents/GitHub/let-f4/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_alipay] /Users/artc/Documents/GitHub/let-f4/build/flutter_alipay/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:image_picker] /Users/artc/Documents/GitHub/let-f4/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/artc/Documents/GitHub/let-f4/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_webview_plugin] /Users/artc/Documents/GitHub/let-f4/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:url_launcher] /Users/artc/Documents/GitHub/let-f4/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:shared_preferences] /Users/artc/Documents/GitHub/let-f4/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_web] /Users/artc/Documents/GitHub/let-f4/build/shared_preferences_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:camera] /Users/artc/Documents/GitHub/let-f4/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-10:12
+MERGED from [:shared_preferences_macos] /Users/artc/Documents/GitHub/let-f4/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_cropper] /Users/artc/Documents/GitHub/let-f4/build/image_cropper/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /Users/artc/Documents/GitHub/let-f4/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-53:12
+MERGED from [:city_pickers] /Users/artc/Documents/GitHub/let-f4/build/city_pickers/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_macos] /Users/artc/Documents/GitHub/let-f4/build/url_launcher_macos/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_web] /Users/artc/Documents/GitHub/let-f4/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.yalantis:ucrop:2.2.4] /Users/artc/.gradle/caches/transforms-2/files-2.1/f26179183471a5e95ce1a3ac30c11c6f/ucrop-2.2.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/cbcb9f711620dfd4f19564c3056483b2/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/bb8036c7933e8e5ceaec8b7603c4e5f4/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/0d6e172b51eef950425402698297c300/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/e435f87bc23356a6c2edb8b9068f6a2e/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0-rc01] /Users/artc/.gradle/caches/transforms-2/files-2.1/a0639500a5d899056c37e76d909c975b/transition-1.2.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/220cabcfcf0af6a50928334723386077/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/676e76238d1542d63c947064b499f9fc/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/15fc98c9da3b7721e2aa3be9323b4490/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/5ce1335dc9f84ae461c82481b80a5b84/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/0c41f24f7459e73f66ae9f1ce03cb79b/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/28846095b959af32a3cea014a84a18b2/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/039e4be8150fd2be72df998bdce8645b/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/4ecf40e5d96b403737499e39f65f1adb/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/63b4efd73ecc3f7e6b4fb88eb863e0c1/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/ac245c674d04596a28c28e7a8a98bb8e/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/edae6df00f12fae8ef016efef2b0bbfa/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/a0ec77d99ff639db72f069603cd714d5/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/artc/.gradle/caches/transforms-2/files-2.1/b5d317f546a7c257432fa205f1a87fa2/exifinterface-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/9330d719c4bc797b3e951f12e6c7b4f6/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/d7baa7d820733d72b5e45f75a9ada7d3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/2a80d1c5d9f4d19e47bf28515d72e6f8/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/0600b64118e04b0250a610063e40775f/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [top.zibin:Luban:1.1.8] /Users/artc/.gradle/caches/transforms-2/files-2.1/08044d0a24c2fb15dfe30eb02c7d1efe/Luban-1.1.8/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from [:flutter_alipay] /Users/artc/Documents/GitHub/let-f4/build/flutter_alipay/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:flutter_alipay] /Users/artc/Documents/GitHub/let-f4/build/flutter_alipay/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:flutter_alipay] /Users/artc/Documents/GitHub/let-f4/build/flutter_alipay/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-67
+MERGED from [:flutter_alipay] /Users/artc/Documents/GitHub/let-f4/build/flutter_alipay/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-67
+MERGED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from [:flutter_alipay] /Users/artc/Documents/GitHub/let-f4/build/flutter_alipay/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:flutter_alipay] /Users/artc/Documents/GitHub/let-f4/build/flutter_alipay/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-79
+MERGED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:11:5-76
+MERGED from [:flutter_alipay] /Users/artc/Documents/GitHub/let-f4/build/flutter_alipay/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:flutter_alipay] /Users/artc/Documents/GitHub/let-f4/build/flutter_alipay/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-76
+MERGED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:11:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:12:5-75
+MERGED from [:flutter_alipay] /Users/artc/Documents/GitHub/let-f4/build/flutter_alipay/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-75
+MERGED from [:flutter_alipay] /Users/artc/Documents/GitHub/let-f4/build/flutter_alipay/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:13:5-81
+MERGED from [:flutter_alipay] /Users/artc/Documents/GitHub/let-f4/build/flutter_alipay/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+MERGED from [:flutter_alipay] /Users/artc/Documents/GitHub/let-f4/build/flutter_alipay/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+MERGED from [:image_picker] /Users/artc/Documents/GitHub/let-f4/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+MERGED from [:image_picker] /Users/artc/Documents/GitHub/let-f4/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:13:22-78
+application
+ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:15:5-39:19
+MERGED from [:image_picker] /Users/artc/Documents/GitHub/let-f4/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /Users/artc/Documents/GitHub/let-f4/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [:flutter_webview_plugin] /Users/artc/Documents/GitHub/let-f4/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-19:19
+MERGED from [:flutter_webview_plugin] /Users/artc/Documents/GitHub/let-f4/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-19:19
+MERGED from [:url_launcher] /Users/artc/Documents/GitHub/let-f4/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/artc/Documents/GitHub/let-f4/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-51:19
+MERGED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-51:19
+MERGED from [androidx.core:core:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/039e4be8150fd2be72df998bdce8645b/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/039e4be8150fd2be72df998bdce8645b/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/9330d719c4bc797b3e951f12e6c7b4f6/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/9330d719c4bc797b3e951f12e6c7b4f6/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/039e4be8150fd2be72df998bdce8645b/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:17:9-31
+	android:icon
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:19:9-43
+	android:usesCleartextTraffic
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:18:9-44
+	android:name
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#com.artc.bidder.MainActivity
+ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:20:9-31:20
+	android:launchMode
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:22:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:25:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:26:13-55
+	android:configChanges
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:24:13-163
+	android:theme
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:33:9-162
+	android:screenOrientation
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:33:67-103
+	android:theme
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:33:104-160
+	android:name
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:33:19-66
+meta-data#flutterEmbedding
+ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:36:9-38:33
+	android:value
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:38:13-30
+	android:name
+		ADDED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml:37:13-44
+uses-sdk
+INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml
+MERGED from [:fluttertoast] /Users/artc/Documents/GitHub/let-f4/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/artc/Documents/GitHub/let-f4/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/artc/Documents/GitHub/let-f4/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/artc/Documents/GitHub/let-f4/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_alipay] /Users/artc/Documents/GitHub/let-f4/build/flutter_alipay/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_alipay] /Users/artc/Documents/GitHub/let-f4/build/flutter_alipay/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/artc/Documents/GitHub/let-f4/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/artc/Documents/GitHub/let-f4/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/artc/Documents/GitHub/let-f4/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/artc/Documents/GitHub/let-f4/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webview_plugin] /Users/artc/Documents/GitHub/let-f4/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:flutter_webview_plugin] /Users/artc/Documents/GitHub/let-f4/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:url_launcher] /Users/artc/Documents/GitHub/let-f4/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/artc/Documents/GitHub/let-f4/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/artc/Documents/GitHub/let-f4/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/artc/Documents/GitHub/let-f4/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] /Users/artc/Documents/GitHub/let-f4/build/shared_preferences_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] /Users/artc/Documents/GitHub/let-f4/build/shared_preferences_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:camera] /Users/artc/Documents/GitHub/let-f4/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:camera] /Users/artc/Documents/GitHub/let-f4/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] /Users/artc/Documents/GitHub/let-f4/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] /Users/artc/Documents/GitHub/let-f4/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] /Users/artc/Documents/GitHub/let-f4/build/image_cropper/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] /Users/artc/Documents/GitHub/let-f4/build/image_cropper/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/artc/Documents/GitHub/let-f4/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/artc/Documents/GitHub/let-f4/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:city_pickers] /Users/artc/Documents/GitHub/let-f4/build/city_pickers/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:city_pickers] /Users/artc/Documents/GitHub/let-f4/build/city_pickers/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_macos] /Users/artc/Documents/GitHub/let-f4/build/url_launcher_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_macos] /Users/artc/Documents/GitHub/let-f4/build/url_launcher_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_web] /Users/artc/Documents/GitHub/let-f4/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_web] /Users/artc/Documents/GitHub/let-f4/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.github.yalantis:ucrop:2.2.4] /Users/artc/.gradle/caches/transforms-2/files-2.1/f26179183471a5e95ce1a3ac30c11c6f/ucrop-2.2.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.4] /Users/artc/.gradle/caches/transforms-2/files-2.1/f26179183471a5e95ce1a3ac30c11c6f/ucrop-2.2.4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/cbcb9f711620dfd4f19564c3056483b2/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/cbcb9f711620dfd4f19564c3056483b2/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/bb8036c7933e8e5ceaec8b7603c4e5f4/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/bb8036c7933e8e5ceaec8b7603c4e5f4/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/0d6e172b51eef950425402698297c300/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/0d6e172b51eef950425402698297c300/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/e435f87bc23356a6c2edb8b9068f6a2e/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/e435f87bc23356a6c2edb8b9068f6a2e/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0-rc01] /Users/artc/.gradle/caches/transforms-2/files-2.1/a0639500a5d899056c37e76d909c975b/transition-1.2.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0-rc01] /Users/artc/.gradle/caches/transforms-2/files-2.1/a0639500a5d899056c37e76d909c975b/transition-1.2.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/220cabcfcf0af6a50928334723386077/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/220cabcfcf0af6a50928334723386077/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/676e76238d1542d63c947064b499f9fc/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/676e76238d1542d63c947064b499f9fc/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/15fc98c9da3b7721e2aa3be9323b4490/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/15fc98c9da3b7721e2aa3be9323b4490/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/5ce1335dc9f84ae461c82481b80a5b84/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/5ce1335dc9f84ae461c82481b80a5b84/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/0c41f24f7459e73f66ae9f1ce03cb79b/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/0c41f24f7459e73f66ae9f1ce03cb79b/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/28846095b959af32a3cea014a84a18b2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/28846095b959af32a3cea014a84a18b2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/039e4be8150fd2be72df998bdce8645b/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/039e4be8150fd2be72df998bdce8645b/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/4ecf40e5d96b403737499e39f65f1adb/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/4ecf40e5d96b403737499e39f65f1adb/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/63b4efd73ecc3f7e6b4fb88eb863e0c1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/63b4efd73ecc3f7e6b4fb88eb863e0c1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/ac245c674d04596a28c28e7a8a98bb8e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/ac245c674d04596a28c28e7a8a98bb8e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/edae6df00f12fae8ef016efef2b0bbfa/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/edae6df00f12fae8ef016efef2b0bbfa/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/a0ec77d99ff639db72f069603cd714d5/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/a0ec77d99ff639db72f069603cd714d5/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/artc/.gradle/caches/transforms-2/files-2.1/b5d317f546a7c257432fa205f1a87fa2/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/artc/.gradle/caches/transforms-2/files-2.1/b5d317f546a7c257432fa205f1a87fa2/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/9330d719c4bc797b3e951f12e6c7b4f6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/9330d719c4bc797b3e951f12e6c7b4f6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/d7baa7d820733d72b5e45f75a9ada7d3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/d7baa7d820733d72b5e45f75a9ada7d3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/2a80d1c5d9f4d19e47bf28515d72e6f8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/2a80d1c5d9f4d19e47bf28515d72e6f8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/0600b64118e04b0250a610063e40775f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/artc/.gradle/caches/transforms-2/files-2.1/0600b64118e04b0250a610063e40775f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [top.zibin:Luban:1.1.8] /Users/artc/.gradle/caches/transforms-2/files-2.1/08044d0a24c2fb15dfe30eb02c7d1efe/Luban-1.1.8/AndroidManifest.xml:7:5-9:41
+MERGED from [top.zibin:Luban:1.1.8] /Users/artc/.gradle/caches/transforms-2/files-2.1/08044d0a24c2fb15dfe30eb02c7d1efe/Luban-1.1.8/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/artc/Documents/GitHub/let-f4/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/artc/Documents/GitHub/let-f4/android/app/src/debug/AndroidManifest.xml:1:1-7:12 reason: com.jzoom.flutteralipay requested WRITE_EXTERNAL_STORAGE
+MERGED from [:image_picker] /Users/artc/Documents/GitHub/let-f4/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+MERGED from [:image_picker] /Users/artc/Documents/GitHub/let-f4/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/artc/Documents/GitHub/let-f4/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/artc/Documents/GitHub/let-f4/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/artc/Documents/GitHub/let-f4/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/artc/Documents/GitHub/let-f4/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /Users/artc/Documents/GitHub/let-f4/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/artc/Documents/GitHub/let-f4/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /Users/artc/Documents/GitHub/let-f4/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /Users/artc/Documents/GitHub/let-f4/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
+provider#androidx.core.content.FileProvider
+ADDED from [:flutter_webview_plugin] /Users/artc/Documents/GitHub/let-f4/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:9:9-18:20
+	android:grantUriPermissions
+		ADDED from [:flutter_webview_plugin] /Users/artc/Documents/GitHub/let-f4/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-47
+	android:authorities
+		ADDED from [:flutter_webview_plugin] /Users/artc/Documents/GitHub/let-f4/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-64
+	android:exported
+		ADDED from [:flutter_webview_plugin] /Users/artc/Documents/GitHub/let-f4/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-37
+	tools:replace
+		ADDED from [:flutter_webview_plugin] /Users/artc/Documents/GitHub/let-f4/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-48
+	android:name
+		ADDED from [:flutter_webview_plugin] /Users/artc/Documents/GitHub/let-f4/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-62
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /Users/artc/Documents/GitHub/let-f4/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/artc/Documents/GitHub/let-f4/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/artc/Documents/GitHub/let-f4/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/artc/Documents/GitHub/let-f4/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+uses-permission#android.permission.CAMERA
+ADDED from [:camera] /Users/artc/Documents/GitHub/let-f4/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from [:camera] /Users/artc/Documents/GitHub/let-f4/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:camera] /Users/artc/Documents/GitHub/let-f4/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from [:camera] /Users/artc/Documents/GitHub/let-f4/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-68
+activity#com.jarvan.fluwx.wxapi.WXEntryActivity
+ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-15:58
+	android:launchMode
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-44
+	android:theme
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-55
+	android:name
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-66
+activity-alias#${applicationId}.wxapi.WXEntryActivity
+ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-30:26
+	android:launchMode
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-43
+	android:exported
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-36
+	android:targetActivity
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-76
+	android:theme
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-55
+	android:name
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-66
+activity-alias#com.artc.bidder.wxapi.WXEntryActivity
+ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-30:26
+	android:launchMode
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-43
+	android:exported
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-36
+	android:targetActivity
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-76
+	android:theme
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-55
+	android:name
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:scheme:sdksample
+ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-29:29
+action#android.intent.action.VIEW
+ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:24:25-66
+category#android.intent.category.DEFAULT
+ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:26:27-73
+data
+ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:28:17-52
+	android:scheme
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:28:23-49
+activity#com.jarvan.fluwx.wxapi.WXPayEntryActivity
+ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:32:9-35:58
+	android:launchMode
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-44
+	android:theme
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-55
+	android:name
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:33:13-69
+activity-alias#${applicationId}.wxapi.WXPayEntryActivity
+ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-50:26
+	android:launchMode
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-48
+	android:exported
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-36
+	android:targetActivity
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-79
+	android:theme
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-55
+	android:name
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-69
+activity-alias#com.artc.bidder.wxapi.WXPayEntryActivity
+ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-50:26
+	android:launchMode
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-48
+	android:exported
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-36
+	android:targetActivity
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-79
+	android:theme
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-55
+	android:name
+		ADDED from [:fluwx] /Users/artc/Documents/GitHub/let-f4/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-69

@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:1:1-47:12
+	package
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:2:5-31
+		INJECTED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:6:22-73
+application
+ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:8:5-46:19
+activity#com.jarvan.fluwx.wxapi.WXEntryActivity
+ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:9:9-12:58
+	android:launchMode
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:11:13-44
+	android:theme
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:12:13-55
+	android:name
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:10:13-50
+activity#com.jarvan.fluwx.wxapi.WXPayEntryActivity
+ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:13:9-16:58
+	android:launchMode
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:15:13-44
+	android:theme
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:16:13-55
+	android:name
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:14:13-53
+activity-alias#${applicationId}.wxapi.WXEntryActivity
+ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:18:9-31:26
+	android:launchMode
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:21:13-43
+	android:exported
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:20:13-36
+	android:targetActivity
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:22:13-76
+	android:theme
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:23:13-55
+	android:name
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:19:13-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:scheme:sdksample
+ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.VIEW
+ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:28:27-73
+data
+ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:29:17-52
+	android:scheme
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:29:23-49
+activity-alias#${applicationId}.wxapi.WXPayEntryActivity
+ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:32:9-45:26
+	android:launchMode
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:35:13-48
+	android:exported
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:34:13-36
+	android:targetActivity
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:36:13-79
+	android:theme
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:37:13-55
+	android:name
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:33:13-69
+uses-sdk
+INJECTED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml
+INJECTED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml
+		ADDED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml

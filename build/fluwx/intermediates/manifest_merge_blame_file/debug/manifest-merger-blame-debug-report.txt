@@ -1,0 +1,83 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.jarvan.fluwx" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.INTERNET" />
+7-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:4:5-67
+7-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:4:22-64
+8    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+8-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:5:5-79
+8-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:5:22-76
+9    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+9-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:6:5-76
+9-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:6:22-73
+10
+11    <application>
+11-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:8:5-46:19
+12        <activity
+12-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:9:9-12:58
+13            android:name="com.jarvan.fluwx.wxapi.WXEntryActivity"
+13-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:10:13-50
+14            android:launchMode="singleTask"
+14-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:11:13-44
+15            android:theme="@style/DisablePreviewTheme" />
+15-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:12:13-55
+16
+17        <activity-alias
+18            android:name="dollar_openBracket_applicationId_closeBracket.wxapi.WXEntryActivity"
+19            android:exported="true"
+20            android:launchMode="singleTop"
+21            android:targetActivity="com.jarvan.fluwx.wxapi.WXEntryActivity"
+22            android:theme="@style/DisablePreviewTheme" >
+23            <intent-filter>
+23-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:26:13-30:29
+24                <action android:name="android.intent.action.VIEW" />
+24-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:27:17-69
+24-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:27:25-66
+25
+26                <category android:name="android.intent.category.DEFAULT" />
+26-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:28:17-76
+26-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:28:27-73
+27
+28                <data android:scheme="sdksample" />
+28-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:29:17-52
+28-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:29:23-49
+29            </intent-filter>
+30        </activity-alias>
+31
+32        <activity
+32-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:13:9-16:58
+33            android:name="com.jarvan.fluwx.wxapi.WXPayEntryActivity"
+33-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:14:13-53
+34            android:launchMode="singleTask"
+34-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:15:13-44
+35            android:theme="@style/DisablePreviewTheme" />
+35-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:16:13-55
+36
+37        <activity-alias
+38            android:name="dollar_openBracket_applicationId_closeBracket.wxapi.WXPayEntryActivity"
+39            android:exported="true"
+40            android:launchMode="singleInstance"
+41            android:targetActivity="com.jarvan.fluwx.wxapi.WXPayEntryActivity"
+42            android:theme="@style/DisablePreviewTheme" >
+43            <intent-filter>
+43-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:26:13-30:29
+44                <action android:name="android.intent.action.VIEW" />
+44-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:27:17-69
+44-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:27:25-66
+45
+46                <category android:name="android.intent.category.DEFAULT" />
+46-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:28:17-76
+46-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:28:27-73
+47
+48                <data android:scheme="sdksample" />
+48-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:29:17-52
+48-->/Users/artc/.pub-cache/hosted/pub.dartlang.org/fluwx-1.2.1+2/android/src/main/AndroidManifest.xml:29:23-49
+49            </intent-filter>
+50        </activity-alias>
+51    </application>
+52
+53</manifest>

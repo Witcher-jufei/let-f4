@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jarvan.fluwx" >
+
+    <uses-sdk android:minSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application>
+        <activity
+            android:name="com.jarvan.fluwx.wxapi.WXEntryActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/DisablePreviewTheme" />
+
+        <activity-alias
+            android:name="dollar_openBracket_applicationId_closeBracket.wxapi.WXEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:targetActivity="com.jarvan.fluwx.wxapi.WXEntryActivity"
+            android:theme="@style/DisablePreviewTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="sdksample" />
+            </intent-filter>
+        </activity-alias>
+
+        <activity
+            android:name="com.jarvan.fluwx.wxapi.WXPayEntryActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/DisablePreviewTheme" />
+
+        <activity-alias
+            android:name="dollar_openBracket_applicationId_closeBracket.wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleInstance"
+            android:targetActivity="com.jarvan.fluwx.wxapi.WXPayEntryActivity"
+            android:theme="@style/DisablePreviewTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="sdksample" />
+            </intent-filter>
+        </activity-alias>
+    </application>
+
+</manifest>

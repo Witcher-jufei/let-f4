@@ -1,0 +1,6 @@
+framework module flutter_alipay {
+  umbrella header "flutter_alipay-umbrella.h"
+
+  export *
+  module * { export * }
+}

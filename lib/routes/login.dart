@@ -124,6 +124,92 @@ class _LoginState extends State<LoginRoute> {
   Widget build(BuildContext context) {
     
     return Scaffold(
+
+      // bottomNavigationBar: BottomAppBar(
+      //   elevation: 0,
+      //   color: Color.fromRGBO(249, 250, 249, 1.0),
+      //   child: Column(
+      //     mainAxisSize: MainAxisSize.min,
+      //     children: <Widget>[
+            
+      //                 Container(
+      //                     margin: EdgeInsets.only(
+      //                       bottom: ScreenUtil().setHeight(44),
+      //                     ),
+      //                     child: Row(
+      //                       crossAxisAlignment: CrossAxisAlignment.center,
+      //                       mainAxisAlignment: MainAxisAlignment.center,
+      //                       children: <Widget>[
+      //                         Center(
+      //                           child: InkWell(
+      //                             onTap: () {
+      //                               setState(() {
+      //                                 checkselect = !checkselect;
+      //                               });
+      //                             },
+      //                             child: checkselect
+      //                                 ? Icon(
+      //                                     Icons.check_circle,
+      //                                     size: 20.0,
+      //                                     color: Colors.black,
+      //                                   )
+      //                                 : Icon(
+      //                                     Icons.check_circle_outline,
+      //                                     size: 20.0,
+      //                                     color: Colors.black,
+      //                                   ),
+      //                           ),
+      //                         ),
+      //                         Container(
+      //                           margin: EdgeInsets.only(
+      //                             left: ScreenUtil().setHeight(10),
+      //                           ),
+      //                           child: Text("我已阅读并同意",
+      //                               style: TextStyle(fontSize: 14.0)),
+      //                         ),
+      //                         Container(
+      //                           child: GestureDetector(
+      //                             child: Text("《用户协议》",
+      //                                 style: TextStyle(
+      //                                     color: Colors.blue, fontSize: 14.0)),
+      //                             onTap: this._textClick,
+      //                           ),
+      //                         ),
+      //                         Container(
+      //                           child:
+      //                               Text("和", style: TextStyle(fontSize: 14.0)),
+      //                         ),
+      //                         Container(
+      //                           child: GestureDetector(
+      //                             child: Text("《隐私政策》",
+      //                                 style: TextStyle(
+      //                                     color: Colors.blue, fontSize: 14.0)),
+      //                             onTap: () {
+      //                               Navigator.pushNamed(context, "privacy");
+      //                             },
+      //                           ),
+      //                         ),
+      //                       ],
+      //                     )),
+      //       Container(
+      //                   width: ScreenUtil().setHeight(302),
+      //                   margin:
+      //                       EdgeInsets.only(bottom: ScreenUtil().setHeight(58)),
+      //                   // alignment: Alignment.center,
+      //                   child: RaisedButton(
+      //                     color: Color(0xFF414141),
+      //                     child: Text(
+      //                       "登录",
+      //                       style:
+      //                           TextStyle(color: Colors.white, fontSize: 12.0),
+      //                     ),
+      //                     onPressed: checkselect ? _loginPressed : null,
+      //                   ),
+      //                 )         
+      //     ],
+      //   ),
+      // ),
+     
       body: GestureDetector(
         behavior: HitTestBehavior.translucent,
         onTap: () {
